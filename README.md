@@ -59,8 +59,6 @@ Indexes currently included within the project all contain 100 accounts considere
 
 ## Todo
 
-[ ] Add capabililty to filter by start and end date for determining tweets to evaluate
-
 [ ] Verify replies that are part of threads do not count towards tweet interactions
 
 <br>
